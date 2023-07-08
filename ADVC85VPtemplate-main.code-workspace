@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C77"
+		},
+		{
+			"path": "../C82CanvasPaint"
+		},
+		{
+			"path": "../ADVC84template-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADVC85VPtemplate-main"
+	}
+}
